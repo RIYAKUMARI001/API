@@ -1,8 +1,8 @@
-#Dad Jokes App:
+#DAD-JOKES-API:
 
 A simple, fun web application that fetches random dad jokes using the icanhazdadjoke API. Users can generate a new dad joke at the click of a button!
 
-🚀 Features:
+🚀* Features*:
 
 Fetches random dad jokes using an API.
 
@@ -12,7 +12,7 @@ Displays error messages in case of network issues.
 
 Provides a "Loading..." indicator while fetching jokes.
 
-🖥️Technologies Used:
+🖥️*Technologies Used*:
 
 HTML: For structuring the webpage.
 
@@ -22,7 +22,7 @@ JavaScript: For dynamic functionality.
 
 Axios: For making HTTP requests to the dad jokes API.
 
-🔧 How to Use:
+🔧 *How to Use*:
 
 Clone this repository:
 
@@ -35,7 +35,7 @@ Open the index.html file in any modern web browser.
 
 Click the Get Dad Jokes button to fetch and display a random joke.
 
-#Enjoy a fresh laugh every time you click the button!
+*#Enjoy a fresh laugh every time you click the button!*
 
 HTML Structure:
 
@@ -51,7 +51,7 @@ Error Handling: Displays a friendly message when the API call fails.
 
 Loading Indicator: Displays "Loading..." while waiting for the joke.
 
-📚Future Enhancements:
+📚*Future Enhancements*:
 
 Add a "Share" button to allow users to copy or tweet the joke.
 
